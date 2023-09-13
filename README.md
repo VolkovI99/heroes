@@ -1,1 +1,5 @@
-This is test project with hero admin panel!
+This is my project with hero admin panel!
+
+For start:
+npm i
+npm start
